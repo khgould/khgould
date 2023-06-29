@@ -9,4 +9,4 @@
 - :ice_hockey: Avid hockey player
 
 ### Contact Me
-![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://linkedin.com/in/kevin-gould1)
+![https://linkedin.com/in/kevin-gould1](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
