@@ -2,11 +2,11 @@
 
 ### Hi there, my name is Kevin! 👋
 
-- 🔭 I’m specifically interested in data engineering, data pipeline and analytics platforms
+- 🔭 I’m specifically interested in data engineering, and data pipeline / analytics platforms
 - 💡 Open source advocate.
 - 🔎 I've contributed to a few OS data projects like Apache Airflow and DataHub
 - 💻 Data Engineer at Mural
 - :ice_hockey: Avid hockey player
 
 ### Contact Me
-![https://linkedin.com/in/kevin-gould1](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)[Kevin Gould](https://linkedin.com/in/kevin-gould1)
