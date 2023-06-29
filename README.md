@@ -1,5 +1,5 @@
 <p align=”center”>
-  <img width=200 height=200 src=”![banner](https://github.com/khgould/khgould/assets/39738698/86965168-c8da-4c21-95a2-2b3438b77c89)" alt=”my banner”>
+  <img width="200" height="200" src=”![banner](https://github.com/khgould/khgould/assets/39738698/86965168-c8da-4c21-95a2-2b3438b77c89)" alt=”my banner”>
 </p>
 
 ### Hi there, my name is Kevin! 👋
@@ -13,3 +13,5 @@
 ### Contact Me
 
 ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=khgould)](https://github.com/khould)
