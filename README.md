@@ -1,4 +1,4 @@
-<img src="https://github.com/khgould/khgould/assets/39738698/86965168-c8da-4c21-95a2-2b3438b77c89" alt="kgbanner">
+<img src="https://github.com/khgould/khgould/assets/39738698/dcac94ca-ff80-413d-bae9-f0c0e3e4269f" alt="kgbanner">
 
 ### Hi there, my name is Kevin! 👋
 
