@@ -1,6 +1,6 @@
 <p align=”center”>
 
-<img width=”200" height=”200" src=”https://github.com/khgould/khgould/assets/39738698/b231e6d0-3a0a-4f5c-9cbb-dedca6886274" alt=”my banner”>
+<img width=”200" height=”200" src=”![banner](https://github.com/khgould/khgould/assets/39738698/86965168-c8da-4c21-95a2-2b3438b77c89)" alt=”my banner”>
 
 </p>
 
