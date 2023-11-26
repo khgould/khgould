@@ -12,6 +12,7 @@
 - 🌩️  Improving pipelines with spark
 - 🤖  Effective CICD
 - 🧊  Managing Kubernetes deployments
+- 🍼 Goland
 
 ### Contact Me
 ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
